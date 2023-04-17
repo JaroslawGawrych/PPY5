@@ -80,7 +80,7 @@ while True:
     print("2. usun studenta")
     print("3. wyslij maile")
     print("4. oceń uczniów automatycznie")
-    opt = input("Podaj wybor: ")
+    opt = input("wybierz opcje: ")
     match opt:
         case "1":
             isUnique = True
